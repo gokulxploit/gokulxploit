@@ -143,9 +143,9 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gokulxploit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=false" height="170"/>
 
 </p>
 
@@ -155,7 +155,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulxploit&theme=tokyonight&hide_border=false&layout=compact"/>
 
 </p>
 
@@ -165,7 +165,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
 
 </p>
 
@@ -175,7 +175,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=gokulxploit&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -183,7 +183,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 # 🔥 Contribution Graph
 
-[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/)
+[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulxploit&theme=tokyo-night)](https://github.com/gokulxploit)
 
 ---
 
