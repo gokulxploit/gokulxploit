@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:00F7FF&text=GOKULAKANNAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=GOKULAKANNAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1200&lines=Software+Developer;Java+Full+Stack+Developer;Spring+Boot+Developer;Problem+Solver;AI+Driven+Learner;Cybersecurity+Learner;Ready+to+Learn+New+Technologies;Building+Solutions+Through+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1200&lines=Software+Developer;Java+Full+Stack+Developer;Spring+Boot+Developer;DSA+Problem+Solver;Cybersecurity+Learner;AI+Driven+Engineer;Building+Solutions+Through+Code;Ready+to+Learn+Modern+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gokulxploit&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
@@ -10,88 +14,121 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulxploit&theme=tokyonight"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=gokulxploit&data=followers,repositories,stars,commits&theme=dark"/>
 
 </div>
 
 ---
 
-# 🧠 ENGINEERING MINDSET
+# ⚡ ENGINEERING MINDSET
 
-<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
-Engineer: Gokulakannan
+name: Gokulakannan
 
-Domain:
-  - Software Development
-  - Full Stack Development
-  - Backend Development
-  - AI Driven Learning
+role:
+  - Software Developer
+  - Java Full Stack Developer
+  - Technology Learner
 
-Focused On:
+focused_on:
   - Java
   - Spring Boot
+  - Full Stack Development
   - DSA
-  - Modern Technologies
-  - Continuous Learning
+  - AI Technologies
 
-Strengths:
+strengths:
   - Problem Solving
   - Logical Thinking
   - Adaptability
   - Fast Learning
   - Analytical Skills
 
-Current Mission:
-  - Build scalable applications
-  - Strengthen development skills
-  - Learn industry technologies
-  - Evolve with AI advancements
+mindset:
+  - Ready to Learn
+  - Ready to Build
+  - Evolving with Technology
 ```
 
 ---
 
-# ❓ EEE TO IT?
+# 🚀 FROM EEE TO IT
 
 <div align="center">
 
-## ⚡ "Engineering Has No Boundaries."
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;Learning+Makes+Engineers+Powerful;Adapting+with+AI+and+Modern+Tech" />
 
 </div>
 
-Many people ask:
-
-### ❓ "Why IT after studying EEE?"
-
-My answer is simple:
-
-- EEE, ECE, CSE — every branch creates engineers.
-- The strongest engineers are those who can:
-  - Learn quickly
-  - Adapt continuously
-  - Solve real-world problems
-  - Grow with technology
-
-Technology changes every day.
-
-An engineer who evolves with technology stays relevant.
-
-My engineering background helped me develop:
-- Logical Thinking
-- Analytical Skills
-- Problem Solving Ability
-- Technical Understanding
-
-Now I apply those skills in:
-- Software Development
-- Backend Engineering
-- Modern Web Technologies
-- AI Driven Learning
+---
 
 <div align="center">
 
-# 🚀 "The Future Belongs to Engineers Who Never Stop Learning."
+# ⚡ "An Engineer Is Defined By Skills, Not By Branch."
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+# 🔌 EEE
+
+### ✔ Logic  
+### ✔ Systems  
+### ✔ Analysis  
+
+</td>
+
+<td align="center" width="33%">
+
+# 💻 IT
+
+### ✔ Code  
+### ✔ Innovation  
+### ✔ Technology  
+
+</td>
+
+<td align="center" width="33%">
+
+# 🚀 ENGINEER
+
+### ✔ Problem Solver  
+### ✔ Fast Learner  
+### ✔ Adaptive Thinker  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 💡 WHY DID I CHOOSE IT?
+
+</div>
+
+- Technology evolves every day.
+- Engineers who continuously learn stay relevant.
+- My engineering background strengthened:
+  - Logical Thinking
+  - Analytical Skills
+  - Problem Solving Ability
+- IT allows me to:
+  - Build scalable applications
+  - Learn modern technologies
+  - Work with AI-driven tools
+  - Create impactful solutions
+
+<div align="center">
+
+# 🤖 "AI Will Not Replace Engineers. Engineers Using AI Will Lead."
 
 </div>
 
@@ -157,7 +194,7 @@ Now I apply those skills in:
 
 ### Features
 - Responsive UI
-- Modern Design
+- Dark Theme
 - Smooth Animations
 - Bootstrap Components
 
@@ -175,9 +212,9 @@ Now I apply those skills in:
 
 ### Features
 - CRUD Operations
-- Authentication
+- Login Authentication
 - Database Connectivity
-- Data Management
+- Student Management
 
 ### Tech Used
 - Java
@@ -195,10 +232,10 @@ Now I apply those skills in:
 # 🚀 Spring Boot REST API
 
 ### Features
-- REST APIs
-- CRUD Endpoints
+- REST Endpoints
+- CRUD APIs
+- Backend Logic
 - JSON Responses
-- Backend Architecture
 
 ### Tech Used
 - Spring Boot
@@ -213,9 +250,9 @@ Now I apply those skills in:
 
 ### Features
 - Product Cards
-- Responsive Layout
 - Shopping Cart UI
-- Modern UI Design
+- Responsive Layout
+- Attractive Design
 
 ### Tech Used
 - HTML
@@ -231,13 +268,13 @@ Now I apply those skills in:
 
 <td width="50%">
 
-# 🔐 Login Authentication System
+# 🔐 Authentication System
 
 ### Features
-- User Registration
 - Login Validation
-- Secure Authentication
+- User Registration
 - Session Handling
+- Secure Access
 
 ### Tech Used
 - Spring Boot
@@ -255,8 +292,8 @@ Now I apply those skills in:
 - Linked List
 - Stack
 - Queue
-- Sorting
 - Recursion
+- Sorting
 
 ### Goal
 - Improve Problem Solving
@@ -278,7 +315,7 @@ Now I apply those skills in:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokulxploit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=gokulxploit&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -298,7 +335,7 @@ Now I apply those skills in:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
@@ -314,27 +351,19 @@ Now I apply those skills in:
 
 ---
 
-# 📅 CONTRIBUTION SNAKE
+# 🎯 CURRENT GOALS
 
 <div align="center">
 
-![snake gif](https://github.com/gokulxploit/gokulxploit/blob/output/github-contribution-grid-snake.svg)
+| Goal | Status |
+|------|------|
+| Java Full Stack | 🚀 Learning |
+| Spring Boot | ⚡ Improving |
+| DSA Problem Solving | 🔥 Practicing |
+| AI Integrated Development | 🤖 Exploring |
+| Open Source Contribution | 🌱 Growing |
 
 </div>
-
----
-
-# 🎯 CURRENT GOALS
-
-```yaml
-Goals:
-  - Master Full Stack Development
-  - Improve DSA Problem Solving
-  - Build Scalable Applications
-  - Learn AI Integrated Development
-  - Stay Updated with Modern Technologies
-  - Become Industry Ready
-```
 
 ---
 
@@ -358,6 +387,6 @@ Goals:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:141E30,50:243B55,100:00F7FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </div>
