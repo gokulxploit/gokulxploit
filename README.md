@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=GOKULAKANNAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1200&lines=Software+Developer;Java+Full+Stack+Developer;Spring+Boot+Developer;DSA+Problem+Solver;Cybersecurity+Learner;AI+Driven+Engineer;Building+Solutions+Through+Code;Ready+to+Learn+Modern+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1200&lines=Software+Developer;Java+Full+Stack+Developer;Spring+Boot+Developer;Problem+Solver;AI+Driven+Learner;Building+Modern+Applications;Ready+to+Learn+New+Technologies;Growing+With+Innovation" />
 
 <br>
 
@@ -54,52 +54,42 @@ mindset:
 
 ---
 
-# 🚀 FROM EEE TO IT
+# 🚀 WHY SOFTWARE DEVELOPMENT?
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;Learning+Makes+Engineers+Powerful;Adapting+with+AI+and+Modern+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Technology+Creates+Opportunities;Software+Builds+The+Future;Learning+Keeps+Engineers+Relevant;Innovation+Starts+With+Curiosity" />
 
 </div>
 
 ---
 
-<div align="center">
-
-# ⚡ "An Engineer Is Defined By Skills, Not By Branch."
-
-</div>
-
 <table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-# 🔌 EEE
+# 🧠 WHAT ENGINEERING TAUGHT ME
 
-### ✔ Logic  
-### ✔ Systems  
-### ✔ Analysis  
-
-</td>
-
-<td align="center" width="33%">
-
-# 💻 IT
-
-### ✔ Code  
-### ✔ Innovation  
-### ✔ Technology  
+✔ Problem Solving  
+✔ Logical Thinking  
+✔ Analytical Skills  
+✔ Adaptability  
+✔ Technical Understanding  
+✔ Continuous Learning  
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-# 🚀 ENGINEER
+# 💻 WHY I CHOSE SOFTWARE
 
-### ✔ Problem Solver  
-### ✔ Fast Learner  
-### ✔ Adaptive Thinker  
+✔ Build Scalable Applications  
+✔ Learn Modern Technologies  
+✔ Work With AI Tools  
+✔ Create Real-World Solutions  
+✔ Grow With Innovation  
+✔ Explore Endless Possibilities  
 
 </td>
 
@@ -110,25 +100,21 @@ mindset:
 
 <div align="center">
 
-# 💡 WHY DID I CHOOSE IT?
+# ⚡ MY PERSPECTIVE
 
 </div>
 
 - Technology evolves every day.
 - Engineers who continuously learn stay relevant.
-- My engineering background strengthened:
-  - Logical Thinking
-  - Analytical Skills
-  - Problem Solving Ability
-- IT allows me to:
-  - Build scalable applications
-  - Learn modern technologies
-  - Work with AI-driven tools
-  - Create impactful solutions
+- Software development allows creativity and innovation.
+- AI and modern tools are shaping the future industry.
+- I believe growth comes from adapting to change.
 
 <div align="center">
 
-# 🤖 "AI Will Not Replace Engineers. Engineers Using AI Will Lead."
+# 🤖 "AI Will Empower Engineers Who Keep Learning."
+
+# 🚀 "The Future Belongs To Engineers Who Adapt."
 
 </div>
 
@@ -164,7 +150,7 @@ mindset:
 
 ---
 
-# 🧠 SKILLS
+# 🧠 CORE SKILLS
 
 <div align="center">
 
@@ -198,7 +184,7 @@ mindset:
 - Smooth Animations
 - Bootstrap Components
 
-### Tech Used
+### Tech Stack
 - HTML
 - CSS
 - Bootstrap
@@ -216,7 +202,7 @@ mindset:
 - Database Connectivity
 - Student Management
 
-### Tech Used
+### Tech Stack
 - Java
 - JDBC
 - MySQL
@@ -232,12 +218,12 @@ mindset:
 # 🚀 Spring Boot REST API
 
 ### Features
-- REST Endpoints
-- CRUD APIs
-- Backend Logic
+- REST APIs
+- CRUD Endpoints
 - JSON Responses
+- Backend Logic
 
-### Tech Used
+### Tech Stack
 - Spring Boot
 - Java
 - MySQL
@@ -252,9 +238,9 @@ mindset:
 - Product Cards
 - Shopping Cart UI
 - Responsive Layout
-- Attractive Design
+- Modern Design
 
-### Tech Used
+### Tech Stack
 - HTML
 - CSS
 - Bootstrap
@@ -271,12 +257,12 @@ mindset:
 # 🔐 Authentication System
 
 ### Features
-- Login Validation
 - User Registration
+- Login Validation
 - Session Handling
-- Secure Access
+- Secure Authentication
 
-### Tech Used
+### Tech Stack
 - Spring Boot
 - Java
 - MySQL
@@ -293,7 +279,7 @@ mindset:
 - Stack
 - Queue
 - Recursion
-- Sorting
+- Sorting Algorithms
 
 ### Goal
 - Improve Problem Solving
@@ -373,9 +359,9 @@ mindset:
 
 ## ⚡ "Technology Never Stops Evolving — Neither Do I."
 
-## 🚀 "Learning Continuously is the Real Superpower."
+## 🚀 "Learning Continuously Is The Real Superpower."
 
-## 🤖 "AI Will Not Replace Engineers. Engineers Using AI Will Lead."
+## 🤖 "AI Will Empower Engineers Who Keep Learning."
 
 ## 💻 "Code. Learn. Build. Repeat."
 
