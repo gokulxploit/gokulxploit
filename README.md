@@ -143,9 +143,9 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokulxploit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gokulxploit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=false" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -155,7 +155,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulxploit&theme=tokyonight&hide_border=false&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokulxploit&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -165,7 +165,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </p>
 
