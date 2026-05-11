@@ -191,6 +191,6 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cyberse
 
 <p align="center">
 
-"Code. Build. Innovate. Automate."
+"Passionate About Software, Hardware, and Security."
 
 </p>
