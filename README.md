@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gokulakannan</h1>
 
 <h3 align="center">
-EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybersecurity Learner 🛡️
+EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cybersecurity Learner 🛡️
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Embedded+Systems+Engineer;Java+Full+Stack+Learner;Cybersecurity+Enthusiast;IoT+Developer;PCB+Design+Engineer;ARM+Cortex+Programmer;EEE+Student+from+India" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Java+Full+Stack+Learner;Cybersecurity+Enthusiast;IoT+Developer;PCB+Design+Engineer;Spring+Boot+Developer;DSA+Problem+Solver" />
 </p>
 
 ---
@@ -16,15 +16,15 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybers
 - ⚡ Interested in Core EEE + IT Industry
 - 🔭 Working on Embedded Systems and IoT Projects
 - 🌱 Currently Learning:
-  - Java DSA
-  - Full Stack Development
+  - Java Full Stack
+  - Spring Boot
+  - DSA
   - Cybersecurity
-  - Cloud Basics
 - 💡 Passionate about:
+  - Embedded Systems
+  - Software Development
   - Automation
-  - Smart Systems
-  - PCB Design
-  - Firmware Development
+  - IoT
 - 🎯 Goal:
   - Become a Software / Embedded Engineer
 
@@ -59,6 +59,8 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybers
 <p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -66,6 +68,25 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybers
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# 🧠 DSA & Problem Solving
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arrays-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked%20List-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Queue-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recursion-D81B60?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Searching-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sorting-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-43A047?style=for-the-badge"/>
 
 </p>
 
@@ -112,7 +133,7 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybers
 - Smart Appliance Control using IoT
 - Mobile Controlled Automation
 
-## 🛡️ Basic Network Security Analysis
+## 🛡️ Network Security Analysis
 - Packet Monitoring using Wireshark
 - Network Scanning using Nmap
 
@@ -150,16 +171,6 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybers
 
 ---
 
-# ✨ Developer Quote
-
-<p align="center">
-
-"Code. Build. Innovate. Automate."
-
-</p>
-
----
-
 # 👀 Visitor Count
 
 <p align="center">
@@ -176,6 +187,10 @@ EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Programmer ☕ | Cybers
 
 ---
 
-# 💡 Fun Fact
+# ✨ Quote
 
-⚡ I bridge the gap between Core Electronics and Modern Software Development.
+<p align="center">
+
+"Code. Build. Innovate. Automate."
+
+</p>
