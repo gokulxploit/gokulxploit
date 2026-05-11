@@ -54,42 +54,55 @@ mindset:
 
 ---
 
-# 🚀 WHY SOFTWARE DEVELOPMENT?
+# 🚀 FROM EEE TO IT
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Technology+Creates+Opportunities;Software+Builds+The+Future;Learning+Keeps+Engineers+Relevant;Innovation+Starts+With+Curiosity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Engineering+Is+About+Problem+Solving;Technology+Has+No+Boundaries;Learning+Makes+Engineers+Powerful;Adapting+with+AI+and+Modern+Tech" />
 
 </div>
 
 ---
 
+<div align="center">
+
+# ⚡ "An Engineer Is Defined By Skills, Not By Branch."
+
+</div>
+
 <table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-# 🧠 WHAT ENGINEERING TAUGHT ME
+# 🔌 EEE
 
-✔ Problem Solving  
-✔ Logical Thinking  
-✔ Analytical Skills  
-✔ Adaptability  
-✔ Technical Understanding  
-✔ Continuous Learning  
+### ✔ Logic  
+### ✔ Systems  
+### ✔ Analysis  
+### ✔ Technical Thinking  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-# 💻 WHY I CHOSE SOFTWARE
+# 💻 IT
 
-✔ Build Scalable Applications  
-✔ Learn Modern Technologies  
-✔ Work With AI Tools  
-✔ Create Real-World Solutions  
-✔ Grow With Innovation  
-✔ Explore Endless Possibilities  
+### ✔ Development  
+### ✔ Innovation  
+### ✔ Technology  
+### ✔ Modern Solutions  
+
+</td>
+
+<td width="33%" align="center">
+
+# 🚀 ENGINEER
+
+### ✔ Problem Solver  
+### ✔ Fast Learner  
+### ✔ Adaptive Thinker  
+### ✔ Future Ready  
 
 </td>
 
@@ -100,19 +113,27 @@ mindset:
 
 <div align="center">
 
-# ⚡ MY PERSPECTIVE
+# 💡 WHY DID I CHOOSE IT?
 
 </div>
 
 - Technology evolves every day.
 - Engineers who continuously learn stay relevant.
-- Software development allows creativity and innovation.
-- AI and modern tools are shaping the future industry.
-- I believe growth comes from adapting to change.
+- My engineering background strengthened:
+  - Logical Thinking
+  - Analytical Skills
+  - Problem Solving Ability
+  - Technical Understanding
+- Software development allows me to:
+  - Build scalable applications
+  - Learn modern technologies
+  - Work with AI-driven tools
+  - Create impactful solutions
+  - Grow continuously with innovation
 
 <div align="center">
 
-# 🤖 "AI Will Empower Engineers Who Keep Learning."
+# 🤖 "AI Will Not Replace Engineers. Engineers Using AI Will Lead."
 
 # 🚀 "The Future Belongs To Engineers Who Adapt."
 
