@@ -1,79 +1,103 @@
 <div align="center">
 
-# ⚡ Hey, I'm Gokulakannan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:00F7FF&text=GOKULAKANNAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;DSA+Problem+Solver;Cybersecurity+Learner;Tech+Explorer;AI+Driven+Learner;Ready+to+Work+%7C+Ready+to+Learn;Building+My+Future+Through+Technology" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=220&section=header&text=GOKULAKANNAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1200&lines=Software+Developer;Java+Full+Stack+Developer;Spring+Boot+Developer;Problem+Solver;AI+Driven+Learner;Cybersecurity+Learner;Ready+to+Learn+New+Technologies;Building+Solutions+Through+Code" />
 
 </div>
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokulxploit&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🧠 ENGINEERING MINDSET
+
+<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```yaml
-Name: Gokulakannan
-Role: Fresher | Software Developer
-Education: Electrical and Electronics Engineering Graduate
+Engineer: Gokulakannan
 
-Current Focus:
-  - Java Full Stack Development
+Domain:
+  - Software Development
+  - Full Stack Development
+  - Backend Development
+  - AI Driven Learning
+
+Focused On:
+  - Java
   - Spring Boot
   - DSA
-  - AI Tools
-  - Cybersecurity
+  - Modern Technologies
+  - Continuous Learning
 
-Mindset:
-  - Ready to Work
-  - Ready to Learn New Technologies
-  - Continuously Improving
-  - Adapting with AI Evolution
-
-Strength:
+Strengths:
   - Problem Solving
-  - Analytical Thinking
+  - Logical Thinking
+  - Adaptability
   - Fast Learning
-  - Engineering Mindset
+  - Analytical Skills
+
+Current Mission:
+  - Build scalable applications
+  - Strengthen development skills
+  - Learn industry technologies
+  - Evolve with AI advancements
 ```
 
 ---
 
-# ❓ Why IT After EEE?
+# ❓ EEE TO IT?
 
 <div align="center">
 
-### 💡 "EEE, ECE, CSE — every branch creates Engineers."
+## ⚡ "Engineering Has No Boundaries."
 
 </div>
 
-- Engineering is not limited to a single domain.
-- The real strength of an engineer is:
-  - Problem Solving
-  - Logical Thinking
-  - Adaptability
-  - Continuous Learning
-- Technology evolves every day, and engineers evolve with it.
-- I chose IT because:
-  - I enjoy building solutions through code.
-  - I love learning modern technologies.
-  - Software gives endless opportunities to innovate.
-  - AI and modern development are shaping the future.
-- My EEE background strengthened my analytical thinking, while IT allows me to apply it to scalable real-world solutions.
+Many people ask:
+
+### ❓ "Why IT after studying EEE?"
+
+My answer is simple:
+
+- EEE, ECE, CSE — every branch creates engineers.
+- The strongest engineers are those who can:
+  - Learn quickly
+  - Adapt continuously
+  - Solve real-world problems
+  - Grow with technology
+
+Technology changes every day.
+
+An engineer who evolves with technology stays relevant.
+
+My engineering background helped me develop:
+- Logical Thinking
+- Analytical Skills
+- Problem Solving Ability
+- Technical Understanding
+
+Now I apply those skills in:
+- Software Development
+- Backend Engineering
+- Modern Web Technologies
+- AI Driven Learning
 
 <div align="center">
 
-## ⚡ "An Engineer Can Learn Any Technology."
+# 🚀 "The Future Belongs to Engineers Who Never Stop Learning."
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -93,47 +117,51 @@ Strength:
 
 ---
 
-# ⚙️ Tech Stack
+# ⚔️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,vscode,linux,python" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,mysql,git,github,linux,python,vscode" />
 
 </div>
 
 ---
 
-# 🧠 DSA & Problem Solving
+# 🧠 SKILLS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-2A9D8F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Logical%20Thinking-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analytical%20Skills-4361EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Continuous%20Learning-D00000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-7209B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-00b4d8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logical%20Thinking-f72585?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Driven%20Learning-06d6a0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Continuous%20Learning-4361ee?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 Featured IT Projects
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-## 🌐 Portfolio Website
+# 🌐 Portfolio Website
 
-### Features:
+### Features
 - Responsive UI
 - Modern Design
-- Bootstrap Integration
-- Smooth Navigation
+- Smooth Animations
+- Bootstrap Components
 
-### Tech Used:
+### Tech Used
 - HTML
 - CSS
 - Bootstrap
@@ -143,15 +171,15 @@ Strength:
 
 <td width="50%">
 
-## ☕ Java Student Management System
+# ☕ Java Student Management System
 
-### Features:
+### Features
 - CRUD Operations
+- Authentication
 - Database Connectivity
-- Login Authentication
-- Student Data Management
+- Data Management
 
-### Tech Used:
+### Tech Used
 - Java
 - JDBC
 - MySQL
@@ -164,36 +192,36 @@ Strength:
 
 <td width="50%">
 
-## 🛒 E-Commerce Frontend UI
+# 🚀 Spring Boot REST API
 
-### Features:
-- Product Cards
-- Shopping Cart UI
-- Responsive Layout
-- Attractive Design
+### Features
+- REST APIs
+- CRUD Endpoints
+- JSON Responses
+- Backend Architecture
 
-### Tech Used:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+### Tech Used
+- Spring Boot
+- Java
+- MySQL
 
 </td>
 
 <td width="50%">
 
-## 🚀 Spring Boot REST API
+# 🛒 E-Commerce Frontend
 
-### Features:
-- RESTful APIs
-- CRUD Endpoints
-- JSON Response
-- Backend Architecture
+### Features
+- Product Cards
+- Responsive Layout
+- Shopping Cart UI
+- Modern UI Design
 
-### Tech Used:
-- Spring Boot
-- Java
-- MySQL
+### Tech Used
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 </td>
 
@@ -203,38 +231,36 @@ Strength:
 
 <td width="50%">
 
-## 🔐 Login Authentication System
+# 🔐 Login Authentication System
 
-### Features:
+### Features
 - User Registration
 - Login Validation
-- Session Handling
 - Secure Authentication
+- Session Handling
 
-### Tech Used:
-- Java
+### Tech Used
 - Spring Boot
+- Java
 - MySQL
 
 </td>
 
 <td width="50%">
 
-## 📊 Data Structures Practice Repository
+# 📚 DSA Practice Repository
 
-### Features:
-- DSA Problems
-- Java Solutions
-- Optimized Logic
-- Interview Preparation
-
-### Topics:
+### Topics
 - Arrays
 - Linked List
 - Stack
 - Queue
-- Recursion
 - Sorting
+- Recursion
+
+### Goal
+- Improve Problem Solving
+- Technical Interview Preparation
 
 </td>
 
@@ -242,31 +268,33 @@ Strength:
 
 </table>
 
+</div>
+
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gokulxploit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokulxploit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Most Used Languages
+# 📈 MOST USED LANGUAGES
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokulxploit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokulxploit&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -276,7 +304,7 @@ Strength:
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -286,27 +314,43 @@ Strength:
 
 ---
 
-# 👀 Profile Views
+# 📅 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gokulxploit&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+![snake gif](https://github.com/gokulxploit/gokulxploit/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-# 💡 Developer Mindset
+# 🎯 CURRENT GOALS
+
+```yaml
+Goals:
+  - Master Full Stack Development
+  - Improve DSA Problem Solving
+  - Build Scalable Applications
+  - Learn AI Integrated Development
+  - Stay Updated with Modern Technologies
+  - Become Industry Ready
+```
+
+---
+
+# 💭 DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-### ⚡ "Technology Never Stops Evolving — Neither Do I."
+## ⚡ "Technology Never Stops Evolving — Neither Do I."
 
-### 🚀 "Ready to Learn, Ready to Build, Ready to Grow."
+## 🚀 "Learning Continuously is the Real Superpower."
 
-### 🤖 "Adapting with AI to Stay Relevant in the Future Industry."
+## 🤖 "AI Will Not Replace Engineers. Engineers Using AI Will Lead."
 
-### 💻 "Code + Consistency + Curiosity = Growth."
+## 💻 "Code. Learn. Build. Repeat."
+
+## 🔥 "Consistency Creates Growth."
 
 </div>
 
@@ -314,8 +358,6 @@ Strength:
 
 <div align="center">
 
-# 🔥 Thanks for Visiting My Profile 🔥
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:141E30,50:243B55,100:00F7FF&section=footer"/>
 
 </div>
