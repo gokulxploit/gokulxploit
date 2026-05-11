@@ -1,188 +1,239 @@
-<h1 align="center">Hi 👋, I'm Gokulakannan</h1>
+<div align="center">
 
-<h3 align="center">
-EEE Student ⚡ | Embedded Systems Developer 🔌 | Java Developer ☕ | Cybersecurity Learner 🛡️
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Gokulakannan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Java+Full+Stack+Learner;Cybersecurity+Enthusiast;IoT+Developer;PCB+Design+Engineer;Spring+Boot+Developer;DSA+Problem+Solver" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=Electrical+and+Electronics+Engineering+Graduate;Java+Full+Stack+Developer;Embedded+Systems+Engineer;Spring+Boot+Developer;Cybersecurity+Learner;DSA+Problem+Solver;IoT+and+Automation+Enthusiast;Evolving+with+AI+Technologies" />
+
+</div>
 
 ---
 
-# 💫 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Final Year Electrical and Electronics Engineering Student
-- ⚡ Interested in Core EEE + IT Industry
-- 🔭 Working on Embedded Systems and IoT Projects
-- 🌱 Currently Learning:
+# 🚀 About Me
+
+```yaml
+Name: Gokulakannan
+Role: Fresher | Software Developer
+Education: Electrical and Electronics Engineering Graduate
+Current Focus:
   - Java Full Stack
   - Spring Boot
   - DSA
   - Cybersecurity
-- 💡 Passionate about:
-  - Embedded Systems
+  - AI Tools
+
+Passionate About:
   - Software Development
-  - Automation
-  - IoT
-- 🎯 Goal:
-  - Become a Software / Embedded Engineer
+  - Embedded Systems
+  - IoT and Automation
+  - Problem Solving
+  - Modern Technologies
+
+Goal:
+  - Build scalable applications
+  - Grow with AI-driven technologies
+  - Become an industry-ready engineer
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://instagram.com/ivan_gokula_kannan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:gokulakannan7972@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gokulxploit">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 IT Skills
+# 💻 Tech Arsenal
 
-<p align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 👨‍💻 Programming Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</div>
 
 ---
 
 # 🧠 DSA & Problem Solving
 
-<p align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arrays-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linked%20List-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Queue-3949AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recursion-D81B60?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Searching-5E35B1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sorting-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-43A047?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked%20List-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-00A896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Queue-4361EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recursion-D00000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Searching-7209B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sorting-1D3557?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-2A9D8F?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Core EEE Skills
+# ⚡ Embedded & Core Skills
 
-<p align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ARM%20Cortex-0091BD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PCB%20Design-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PLC%20Programming-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARM%20Cortex-0091BD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IoT-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PLC%20Programming-FF8800?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
 # 🛡️ Cybersecurity Skills
 
-<p align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## 🔌 Smart Wireless EV Charging System
-- IoT Based Wireless Charging Monitoring
-- ESP32 + Sensors + Remote Monitoring
-- Real-Time Voltage and Current Tracking
+<table>
+<tr>
+<td width="50%">
+
+## 🔌 Smart Wireless EV Charging
+
+- IoT-Based Monitoring
+- ESP32 Integration
+- Real-Time Voltage Tracking
+- Smart Automation
+
+</td>
+
+<td width="50%">
 
 ## 🏠 Home Automation System
-- Smart Appliance Control using IoT
-- Mobile Controlled Automation
 
-## 🛡️ Network Security Analysis
-- Packet Monitoring using Wireshark
-- Network Scanning using Nmap
+- Smart Device Control
+- IoT Connectivity
+- Sensor Integration
+- Mobile Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokulxploit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gokulxploit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulxploit&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokulxploit&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gokulxploit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</p>
+</div>
 
 ---
 
-# 👀 Visitor Count
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gokulxploit&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gokulxploit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 Contribution Graph
 
+<div align="center">
+
 [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulxploit&theme=tokyo-night)](https://github.com/gokulxploit)
+
+</div>
 
 ---
 
-# ✨ Quote
+# 👀 Profile Views
 
-<p align="center">
+<div align="center">
 
-"Turning Ideas into Intelligent Systems."
+<img src="https://komarev.com/ghpvc/?username=gokulxploit&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-</p>
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+### ⚡ "Turning Ideas into Intelligent Systems."
+
+### 🚀 "Learning Today. Building Tomorrow."
+
+### 🤖 "Evolving with AI to Stay Ahead in Technology."
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Thanks for Visiting My Profile 🔥
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+</div>
